@@ -1,3 +1,11 @@
 #login {
-  
+  float: right;
+
+}
+.logo {
+  max-height: 110px;
+}
+
+.list-group {
+  max-width: 150px;
 }
