@@ -7,11 +7,13 @@ h1 {
 }
 .logo {
   max-height: 110px;
+
 }
 
 .sidebar {
   max-width: 150px;
   float: left;
+
 }
 .headerlinks {
   float: right;
@@ -23,4 +25,28 @@ h1 {
 
 .welcome {
   width: 260px;
+}
+.bothnavbars {
+  max-width: 1000px;
+  float: right;
+
+
+}
+.nav {
+  float: left;
+}
+.col-md-6 {
+  background-color: #f5fffa;
+  border: 1px solid #cef2e0;
+  height: 500px;
+}
+.col-md-4 {
+  background-color: #f5faff;
+  border: 1px solid #cedff2;
+  height: 500px;
+}
+.col-md-10 {
+  border: 1px solid #ddcef2;
+  background-color: #faf5ff;
+
 }
