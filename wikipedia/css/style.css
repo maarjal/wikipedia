@@ -1,3 +1,7 @@
+h1 {
+  font-size: 24px;
+}
+
 #login {
   text-align: right;
 }
@@ -5,6 +9,18 @@
   max-height: 110px;
 }
 
-.list-group {
+.sidebar {
   max-width: 150px;
+  float: left;
+}
+.headerlinks {
+  float: right;
+}
+.page-header {
+  max-width: 790px;
+  height: 170px;
+}
+
+.welcome {
+  width: 260px;
 }
